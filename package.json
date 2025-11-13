@@ -1,0 +1,35 @@
+{
+  "name": "@bu0nq/workspace.frontend.config.stylelint",
+  "type": "module",
+  "version": "0.1.0",
+  "keywords": [
+    "workspace",
+    "frontend",
+    "config",
+    "stylelint"
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "stylelint": "^16.24.0",
+    "stylelint-config-standard-scss": "^16.0.0",
+    "stylelint-order": "^7.0.0",
+    "stylelint-scss": "^6.12.1",
+    "stylelint-selector-bem-pattern": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bu0nq/workspace.frontend.config.stylelint.git"
+  },
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/workspace.frontend.config.stylelint/issues"
+  },
+  "homepage": "https://github.com/bu0nq/workspace.frontend.config.stylelint#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
